@@ -1,0 +1,1835 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@200;500;600;900&display=swap');
+
+#Create_new_Company {
+  position: absolute;
+  width: 100vw;
+  height: 2670px;
+  background-color: rgba(245,246,250,1);
+  overflow: hidden;
+  --web-view-name: Create new Company;
+  --web-view-id: Create_new_Company;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+#Component_1259__2 {
+  position: absolute;
+  width: 95.05vw;
+  height: 80px;
+  left: 50px;
+  top: 53px;
+  overflow: visible;
+}
+#logo {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.Rectangle_3362_b {
+  position: absolute;
+  overflow: visible;
+  width: 80px;
+  height: 80px;
+  left: 0px;
+  top: 0px;
+}
+#Rectangle_3362_b {
+  fill: url(#Rectangle_3362_b);
+}
+#Path_15723 {
+  fill: transparent;
+  stroke: rgba(255,255,255,0.502);
+  stroke-width: 8px;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Path_15723 {
+  overflow: visible !important;
+  position: absolute;
+  width: 32.246px;
+  height: 29.573px;
+  left: 23.5px;
+  top: 32.986px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#Path_15722 {
+  fill: transparent;
+  stroke: rgba(255,255,255,1);
+  stroke-width: 8px;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Path_15722 {
+  overflow: visible !important;
+  position: absolute;
+  width: 32.246px;
+  height: 29.573px;
+  left: 23.5px;
+  top: 28.986px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#Planner {
+  left: 96px;
+  top: 35px;
+  position: absolute;
+  overflow: visible;
+  width: 126px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: 'Spartan', sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 35px;
+  color: rgba(4,9,34,1);
+}
+#Component_1223__7 {
+  position: absolute;
+  right: 15px;
+  top: 17px;
+  overflow: visible;
+}
+.ui.icon.input>input {
+    width: 26vw;
+}
+
+.ui.icon.input>i.icon {
+    color: #0b0bff;
+}
+
+#Component_1263__2 {
+  position: absolute;
+  width: 141px;
+  height: 240px;
+  left: 49px;
+  top: 220px;
+  overflow: visible;
+}
+
+#Dashboard {
+  left: 40px;
+  top: 3.5px;
+  position: absolute;
+  overflow: visible;
+  width: 73px;
+  white-space: nowrap;
+  text-align: left;
+  cursor: pointer;
+  font-size: 15px;
+  color: rgba(160,167,195,1);
+}
+
+#Companies {
+  left: 40px;
+  top: 165px;
+  position: absolute;
+  overflow: visible;
+  width: 75px;
+  white-space: nowrap;
+  text-align: left;
+  cursor: pointer;
+  font-size: 15px;
+  color: rgba(4,9,34,1);
+}
+#Customers {
+  left: 40px;
+  top: 108px;
+  position: absolute;
+  overflow: visible;
+  width: 71px;
+  white-space: nowrap;
+  text-align: left;
+  cursor: pointer;
+  font-size: 15px;
+  color: rgba(160,167,195,1);
+}
+#Tasks {
+  left: 40px;
+  top: 56px;
+  position: absolute;
+  overflow: visible;
+  width: 35px;
+  white-space: nowrap;
+  text-align: left;
+  cursor: pointer;
+  font-size: 15px;
+  color: rgba(160,167,195,1);
+}
+#Settings {
+  left: 40px;
+  top: 219px;
+  position: absolute;
+  overflow: visible;
+  width: 54px;
+  white-space: nowrap;
+  text-align: left;
+  cursor: pointer;
+  font-size: 15px;
+  color: rgba(160,167,195,1);
+}
+#home-run {
+  position: absolute;
+  width: 21.083px;
+  height: 21.53px;
+  left: 1px;
+  top: 0px;
+  overflow: visible;
+}
+#Group_13954 {
+  position: absolute;
+  width: 21.083px;
+  height: 21.53px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Group_13953 {
+  position: absolute;
+  width: 21.083px;
+  height: 21.53px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Path_15672 {
+  fill: rgba(160,167,195,1);
+}
+.Path_15672 {
+  overflow: visible;
+  position: absolute;
+  width: 21.083px;
+  height: 21.53px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#done_all-24px {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 1px;
+  top: 55px;
+  overflow: visible;
+}
+#Path_15725 {
+  fill: transparent;
+}
+.Path_15725 {
+  overflow: visible;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#Path_15726 {
+  fill: rgba(160,167,195,1);
+}
+.Path_15726 {
+  overflow: visible;
+  position: absolute;
+  width: 23.25px;
+  height: 13.41px;
+  left: 0.41px;
+  top: 5.59px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#business-24px {
+  position: absolute;
+  width: 22.24px;
+  height: 22.24px;
+  left: 1px;
+  top: 164.76px;
+  overflow: visible;
+}
+#Path_15727 {
+  fill: transparent;
+}
+.Path_15727 {
+  overflow: visible;
+  position: absolute;
+  width: 22.24px;
+  height: 22.24px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#Path_15728 {
+  fill: rgba(67,88,242,1);
+}
+.Path_15728 {
+  overflow: visible;
+  position: absolute;
+  width: 18.533px;
+  height: 16.68px;
+  left: 1.853px;
+  top: 2.78px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#perm_identity-24px {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 0px;
+  top: 106px;
+  overflow: visible;
+}
+#Path_15729 {
+  fill: transparent;
+}
+.Path_15729 {
+  overflow: visible;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#Path_15730 {
+  fill: rgba(160,167,195,1);
+}
+.Path_15730 {
+  overflow: visible;
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: 4px;
+  top: 4px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#Path_15731 {
+  fill: rgba(160,167,195,1);
+}
+.Path_15731 {
+  overflow: visible;
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: 2px;
+  top: 220px;
+  transform: matrix(1,0,0,1,0,0);
+}
+
+#Add_new_company {
+  left: 300px;
+  top: 165px;
+  position: absolute;
+  overflow: visible;
+  width: 155px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  color: rgba(4,9,34,1);
+  text-transform: capitalize;
+}
+#Rectangle_3354 {
+  fill: rgba(255,255,255,1);
+}
+.Rectangle_3354 {
+  filter: drop-shadow(0px 6px 40px rgba(82, 63, 105, 0.059));
+  position: relative;
+  padding: 1.5em;
+  overflow: visible;
+  background-color: white;
+  border-radius: 10px;
+  width: 78vw;
+  height: 196px;
+  left: 300px;
+  top: 220px;
+  padding-left: 30px;
+}
+#Cancel {
+  left: 1267px;
+  top: 168px;
+  position: absolute;
+  overflow: visible;
+  width: 47px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: 500;
+  color: rgba(255,69,119,1);
+}
+#Component_1262__2 {
+  position: absolute;
+  width: 10.1466vw;
+  height: 45px;
+  left: 87.2395vw;
+  top: 157px;
+  overflow: visible;
+  cursor: pointer;
+}
+.ui.button {
+  width: inherit;
+  height: inherit;
+  font-weight: 500;
+}
+.ui.primary.button, .ui.primary.buttons .button {
+    background-color: #213fd0de !important;
+}
+#Company_Name {
+  left: 330px;
+  top: 243px;
+  position: absolute;
+  overflow: visible;
+  width: 101px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(4,9,34,1);
+}
+.ui.label {
+  background-color: white !important;
+  color: black !important;
+  line-height: 2 !important;
+}
+
+.ui.toggle.checkbox input:focus:checked~.box:before,
+.ui.toggle.checkbox input:focus:checked~label:before {
+    background-color: #21d0a8 !important
+}
+
+.ui.toggle.checkbox input:checked ~ .box:before,
+.ui.toggle.checkbox input:checked ~ label:before {
+  background-color: #21d0a8 !important;
+}
+#Add_new_users {
+  left: 300px;
+  top: 250px;
+  position: relative;
+  overflow: visible;
+  width: 123px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  color: rgba(4,9,34,1);
+  text-transform: capitalize;
+}
+#Component_1270__1 {
+  position: relative;
+  width: 78.125vw;
+  left: 300px;
+  top: 270px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  overflow: visible;
+}
+#Add_another_one {
+  left: 226px;
+  top: 218px;
+  position: relative;
+  overflow: visible;
+  width: 8.8542vw;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  color: rgba(67,88,242,1);
+}
+#Rectangle_3365 {
+  width: 37.76vw;
+  height: inherit;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.Rectangle_3365 {
+  filter: drop-shadow(0px 6px 40px rgba(82, 63, 105, 0.059));
+  position: relative;
+  background-color: white;
+  border-radius: 10px;
+  overflow: visible;
+  width: 37.76vw;
+  height: 538px;
+  left: 0px;
+  top: 0px;
+  margin-bottom: 30px;
+}
+#Rectangle_3366 {
+  width: 37.76vw;
+  height: inherit;
+  border: 2px dashed rgba(67,88,242,1);
+  border-radius: 40px;
+  background-color: transparent;
+  right: 0;
+  top: 0px;
+}
+
+#Union_13 {
+  fill: rgba(67,88,242,1);
+}
+.Union_13 {
+  overflow: visible;
+  position: relative;
+  width: 26px;
+  left: 190px;
+  top: 194px;
+  transform: matrix(1,0,0,1,0,0);
+}
+.dropzone {
+    background-color: aliceblue !important;
+    width: 115px !important;
+    height: 85px !important;
+    font-size: small !important;
+    color: #8080805e !important;
+    border: 1px dashed grey !important;
+    line-height: 1.3 !important;
+}
+#view_company_title {
+  left: 19.5312vw;
+  top: 165px;
+  position: absolute;
+  overflow: visible;
+  width: 14.1276vw;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  color: rgba(67,88,242,1);
+  text-transform: capitalize;
+}
+#Component_1262__21 {
+  position: absolute;
+  width: 10.1466vw;
+  height: 40px;
+  top: 152px;
+  right: 2vw;
+  overflow: visible;
+  cursor: pointer;
+}
+.Rectangle_3370 {
+  background-color: white;
+  position: relative;
+  overflow: visible;
+  width: 77.4738vw;
+  height: 113px;
+  left: 19.5312vw;
+  top: 220px;
+}
+
+#Company_name {
+  left: 21.4843vw;
+  top: 251px;
+  position: absolute;
+  overflow: visible;
+  width: 6.3802vw;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(4,9,34,1);
+}
+
+#Jersey_engineering_services_cb {
+  opacity: 0.5;
+  left: 21.4843vw;
+  top: 279px;
+  position: absolute;
+  overflow: visible;
+  width: 10.9375vw;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  color: rgba(4,9,34,1);
+}
+#Company_Short_Name {
+  left: 42.2526vw;
+  top: 251px;
+  position: absolute;
+  overflow: visible;
+  width: 8.9843vw;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(4,9,34,1);
+}
+#Company_Code {
+  left: 63.0859vw;
+  top: 251px;
+  position: absolute;
+  overflow: visible;
+  width: 6.25vw;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(4,9,34,1);
+}
+#JES {
+  opacity: 0.5;
+  left: 42.2526vw;
+  top: 279px;
+  position: absolute;
+  overflow: visible;
+  width: 1.3671vw;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  color: rgba(4,9,34,1);
+}
+#JES456665 {
+  opacity: 0.5;
+  left: 63.08593vw;
+  top: 279px;
+  position: absolute;
+  overflow: visible;
+  width: 4.2968vw;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  color: rgba(4,9,34,1);
+}
+#Status____ {
+  left: 83.7890vw;
+  top: 251px;
+  position: absolute;
+  overflow: visible;
+  width: 3.5156vw;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(4,9,34,1);
+}
+#Component_1261__7 {
+  position: absolute;
+  width: 60px;
+  height: 30px;
+  left: 1287px;
+  top: 275px;
+  overflow: visible;
+}
+#List_of_Resources {
+  left: 19.5312vw;
+  top: 396px;
+  position: absolute;
+  overflow: visible;
+  width: 133px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  color: rgba(4,9,34,1);
+}
+#Component_1290__1 {
+  position: absolute;
+  width: 6.0546vw;
+  height: 16px;
+  right: 25.7812vw;
+  top: 408px;
+  overflow: visible;
+}
+#Allocated {
+  opacity: 0.5;
+  left: 21px;
+  top: -3px;
+  position: absolute;
+  overflow: visible;
+  width: 59px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(4,9,34,1);
+}
+#Rectangle_3379 {
+  fill: rgba(48,229,139,1);
+}
+.Rectangle_3379 {
+  position: absolute;
+  overflow: visible;
+  width: 13px;
+  height: 13px;
+  left: 0px;
+  top: 1px;
+}
+#Component_1290__2 {
+  position: absolute;
+  width: 7.3567vw;
+  height: 16px;
+  right: 17.1223vw;
+  top: 408px;
+  overflow: visible;
+}
+#Unallocated {
+  opacity: 0.5;
+  left: 21px;
+  top: -3px;
+  position: absolute;
+  overflow: visible;
+  width: 75px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(4,9,34,1);
+}
+#Rectangle_3379_f {
+  opacity: 0.1;
+  fill: rgba(4,9,34,1);
+}
+.Rectangle_3379_f {
+  position: absolute;
+  overflow: visible;
+  width: 13px;
+  height: 13px;
+  left: 0px;
+  top: 1px;
+}
+#Component_1262__8 {
+  position: absolute;
+  width: 13.020vw;
+  height: 45px;
+  right: 2vw;
+  top: 393px;
+  overflow: visible;
+  cursor: pointer;
+}
+.Rectangle_3371 {
+  background-color: white;
+  position: relative;
+  overflow: visible;
+  width: 77.4738vw;
+  height: inherit;
+  border-radius: 10px;
+  left: 19.5312vw;
+  top: 340px;
+  padding: 15px;
+}
+
+#Employee_name {
+  opacity: 0.75;
+  left: 344px;
+  top: 473px;
+  position: absolute;
+  overflow: visible;
+  width: 117px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  color: rgba(4,9,34,1);
+  text-transform: capitalize;
+}
+.resourceList {
+  font-family: Spartan;
+  width: 95%;
+  margin-left: 25px;
+  border-collapse: collapse;
+  margin-bottom: 7px;
+}
+.resourceListBorder {
+  border-top: 2px solid #80808057;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.listHeader {
+  font-weight: 600;
+  border-bottom: 2px solid #80808057;
+  padding: 10px 0 15px 0;
+}
+.listData {
+  text-align: center;
+  padding-top: 25px;
+}
+#All_Companies {
+  left: 19.5312vw;
+  top: 165px;
+  position: absolute;
+  overflow: visible;
+  width: 7.4869vw;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  color: rgba(4,9,34,1);
+}
+#Component_1262__1 {
+  position: absolute;
+  width: 13.6067vw;
+  height: 45px;
+  right: 1.25vw;
+  top: 157px;
+  overflow: visible;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.Rectangle_3325 {
+  background-color: white;
+  position: relative;
+  overflow: visible;
+  width: 78.1vw;
+  height: inherit;
+  left: 19.5312vw;
+  top: 220px;
+  border-radius: 10px;
+  padding: 25px;
+}
+.update {
+  height: 3rem !important;
+  width: 125px !important;
+  right: 0 !important;
+  bottom: 15px !important;
+  position: absolute !important;
+}
+.ui.segment{
+  box-shadow: 0 10px 16px 0 rgba(34,36,38,.15);
+}
+#Component_1295__11 {
+  position: relative;
+  width: 800px;
+  height: 138px;
+  left: 300px;
+  top: 175px;
+  overflow: visible;
+}
+.Rectangle_3325z {
+  background-color: white;
+  position: absolute;
+  overflow: visible;
+  left: 0px;
+  top: 0px;
+  border-radius: 10px
+}
+#Rectangle_2233_ju {
+  background-color: rgba(248,251,255,1);
+  position: absolute;
+  overflow: visible;
+  left: 95px;
+  top: 24px;
+  border: 1.6px dashed #8080807d;
+  border-radius: 7px;
+}
+#Create_a_new_task {
+  opacity: 0.5;
+  left: 113px;
+  top: 39px;
+  position: absolute;
+  overflow: visible;
+  width: 110px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(4,9,34,1);
+}
+.taskSave {
+  position: absolute;
+  right: 0;
+  margin-top: 20px !important;
+  width: 130px !important;
+}
+#Component_1315__1 {
+  position: relative;
+  width: 75vw;
+  height: 50px;
+  left: 19.5312vw;
+  top: 150px;
+  overflow: visible;
+}
+#Rectangle_3400 {
+  background-color: rgba(255,255,255,1);
+  border-radius: 10px;
+  position: relative;
+  overflow: visible;
+  width: 75vw;
+  height: 50px;
+  left: 0px;
+  top: 0px;
+}
+#ID14_Tasks_found {
+  left: 1.3020vw;
+  top: 16px;
+  position: absolute;
+  overflow: visible;
+  width: 5.1432vw;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  color: rgba(4,9,34,1);
+}
+#Component_1305__14 {
+  position: relative;
+  width: 800px;
+  height: 335px;
+  left: 300px;
+  top: 210px;
+  overflow: visible;
+  margin-bottom: 25px;
+}
+#Rectangle_3391_el {
+  background-color: rgba(255,255,255,1);
+  border-radius: 10px;
+  position: absolute;
+  overflow: visible;
+  width: 800px;
+  height: 335px;
+  left: 0px;
+  top: 0px;
+}
+#Task_name_comes_here {
+  left: 24px;
+  top: 87px;
+  position: absolute;
+  overflow: visible;
+  width: 160px;
+  white-space: nowrap;
+  cursor: pointer;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  color: rgba(67,88,242,1);
+}
+
+#Created_by {
+  left: 74px;
+  top: 21px;
+  position: absolute;
+  overflow: visible;
+  width: 120px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  color: rgba(4,9,34,1);
+}
+#Group_13978_er {
+  opacity: 0.5;
+  position: absolute;
+  width: 140.796px;
+  height: 17px;
+  left: 74.371px;
+  top: 43px;
+  overflow: visible;
+}
+#ID_Pm_es {
+  opacity: 0.5;
+  left: 12.796px;
+  top: 0px;
+  position: absolute;
+  overflow: visible;
+  width: 56px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Fira Sans;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(4,9,34,1);
+}
+#ID_et {
+  opacity: 0.75;
+  left: 71.796px;
+  top: 0px;
+  position: absolute;
+  overflow: visible;
+  width: 70px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Fira Sans;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(4,9,34,1);
+}
+#Clock_eu {
+  opacity: 0.5;
+  position: absolute;
+  width: 10.84px;
+  height: 10.84px;
+  left: 0px;
+  top: -1px;
+  overflow: visible;
+}
+#Task_Code_ex {
+  left: 24px;
+  top: 125px;
+  position: absolute;
+  overflow: visible;
+  width: 63px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  color: rgba(4,9,34,1);
+}
+#ID11GFY66_e {
+  opacity: 0.5;
+  left: 24px;
+  top: 149px;
+  position: absolute;
+  overflow: visible;
+  width: 55px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  color: rgba(4,9,34,1);
+}
+#Contractor_name_ {
+  opacity: 0.5;
+  left: 24px;
+  top: 209px;
+  position: absolute;
+  overflow: visible;
+  width: 136px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  color: rgba(4,9,34,1);
+}
+#Contractor_ez {
+  left: 24px;
+  top: 185px;
+  position: absolute;
+  overflow: visible;
+  width: 67px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  color: rgba(4,9,34,1);
+}
+#Job_Code_e {
+  left: 290px;
+  top: 125px;
+  position: absolute;
+  overflow: visible;
+  width: 59px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  color: rgba(4,9,34,1);
+}
+#ID11GFY66_fa {
+  opacity: 0.5;
+  left: 290px;
+  top: 149px;
+  position: absolute;
+  overflow: visible;
+  width: 55px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  color: rgba(4,9,34,1);
+}
+#Project_ew {
+  left: 522px;
+  top: 125px;
+  position: absolute;
+  overflow: visible;
+  width: 44px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  color: rgba(4,9,34,1);
+}
+#Project_name_ {
+  opacity: 0.5;
+  left: 522px;
+  top: 149px;
+  position: absolute;
+  overflow: visible;
+  width: 157px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  color: rgba(4,9,34,1);
+}
+#Scope_of_work_ey {
+  left: 290px;
+  top: 185px;
+  position: absolute;
+  overflow: visible;
+  width: 89px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  color: rgba(4,9,34,1);
+}
+#Scope_of_work_ {
+  left: 290px;
+  top: 212px;
+  position: absolute;
+  overflow: hidden;
+  width: 373px;
+  height: 33px;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  color: rgba(67,88,242,1);
+}
+.hrLine {
+  position: absolute;
+  width: 94%;
+  border: 1px solid #ff000026;
+  margin-left: 25px;
+  bottom: 68px;
+}
+#Group_13980 {
+  position: absolute;
+  width: 129px;
+  height: 24px;
+  left: 24px;
+  top: 293px;
+  overflow: visible;
+  cursor: pointer;
+}
+#Assign_this_task {
+  left: 34px;
+  top: 1px;
+  position: absolute;
+  overflow: visible;
+  width: 96px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(67,88,242,1);
+}
+#done_all {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 0px;
+  top: -2px;
+  overflow: visible;
+}
+#Path_95725 {
+  fill: transparent;
+}
+.Path_95725 {
+  overflow: visible;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#Path_95726 {
+  fill: rgba(67,88,242,1);
+}
+.Path_95726 {
+  overflow: visible;
+  position: absolute;
+  width: 23.25px;
+  height: 13.41px;
+  left: 0.41px;
+  top: 5.59px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#Component_1313__1 {
+  position: absolute;
+  width: 97px;
+  height: 20.203px;
+  top: 295px;
+  overflow: visible;
+}
+#View_files {
+  left: 26px;
+  top: -1px;
+  position: absolute;
+  overflow: visible;
+  width: 59px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(160,167,195,1);
+}
+#folder-24px {
+  position: absolute;
+  width: 20.203px;
+  height: 20.203px;
+  left: 0px;
+  top: -3px;
+  overflow: visible;
+}
+#Path_15739 {
+  fill: transparent;
+}
+.Path_15739 {
+  overflow: visible;
+  position: absolute;
+  width: 20.203px;
+  height: 20.202px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#Path_15740 {
+  fill: rgba(160,167,195,1);
+}
+.Path_15740 {
+  overflow: visible;
+  position: absolute;
+  width: 16.835px;
+  height: 13.469px;
+  left: 1.684px;
+  top: 3.367px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#Priority_eo {
+  opacity: 0.5;
+  left: 522px;
+  top: 297px;
+  position: absolute;
+  overflow: visible;
+  width: 50px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Fira Sans;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(4,9,34,1);
+}
+#High__ep {
+  left: 586px;
+  top: 297px;
+  position: absolute;
+  overflow: visible;
+  width: 34px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Fira Sans;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(4,9,34,1);
+}
+#Ellipse_770_ft {
+  fill: rgba(255,69,119,1);
+}
+.Ellipse_770_ft {
+  position: absolute;
+  overflow: visible;
+  width: 8px;
+  height: 8px;
+  left: 576px;
+  top: 301px;
+}
+#Ellipse_770_c {
+  fill: rgba(48,229,139,1);
+}
+.Ellipse_770_c {
+  position: absolute;
+  overflow: visible;
+  width: 8px;
+  height: 8px;
+  left: 576px;
+  top: 301px;
+}
+#Ellipse_770 {
+  fill: rgba(255,180,28,1);
+}
+.Ellipse_770 {
+  position: absolute;
+  overflow: visible;
+  width: 8px;
+  height: 8px;
+  left: 576px;
+  top: 301px;
+}
+#Component_1313__11_fq {
+  position: absolute;
+  width: 66px;
+  height: 28px;
+  left: 710px;
+  top: 291px;
+  overflow: visible;
+  color: #18e080;
+  background-color: #30e58b26;
+  text-align: center;
+}
+#Rectangle_3412_fr {
+  position: absolute;
+  overflow: visible;
+  width: 66px;
+  height: 28px;
+  left: 0px;
+  top: 2px;
+}
+.assignModal {
+  height: 100vh;
+    top: 0;
+    margin: 0 !important;
+    right: 0;
+    width: 50vw;
+}
+.assignLine {
+  position: absolute;
+  width: 95%;
+  border: 1px solid #ff000026;
+  top: 303px;
+  height: 0;
+}
+#Task_assign {
+  left: 40px;
+  top: 338px;
+  position: absolute;
+  overflow: visible;
+  width: 69px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  color: rgba(4,9,34,1);
+}
+#Select_a_moderator {
+  opacity: 0.5;
+  left: 40px;
+  top: 362px;
+  position: absolute;
+  overflow: visible;
+  width: 253px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  color: rgba(4,9,34,1);
+}
+.assignForm {
+  margin-left: 20px;
+  margin-bottom: 50px;
+  top: 380px;
+  width: 90%;
+}
+#Component_1262__13 {
+  position: absolute;
+  width: 160px;
+  height: 45px;
+  right: 30px;
+  bottom: 50px;
+  overflow: visible;
+  cursor: pointer;
+}
+#cancelAssign {
+  right: 249px;
+  bottom: 61px;
+  position: absolute;
+  overflow: visible;
+  width: 48px;
+  white-space: nowrap;
+  cursor: pointer;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(255,69,119,1);
+}
+#assistant-24px {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: 223px;
+  top: 24px;
+  overflow: visible;
+}
+#Path_15734 {
+  fill: transparent;
+}
+.Path_15734 {
+  overflow: visible;
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#Path_15735 {
+  fill: rgba(48,229,139,1);
+}
+.Path_15735 {
+  overflow: visible;
+  position: absolute;
+  width: 12px;
+  height: 14px;
+  left: 2px;
+  top: 1.333px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#Assigned_to {
+  opacity: 0.25;
+  left: 24px;
+  top: 294px;
+  position: absolute;
+  overflow: visible;
+  width: 74px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(4,9,34,1);
+}
+#assignedName {
+  left: 130px;
+  top: 294px;
+  position: absolute;
+  overflow: visible;
+  width: 44px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: rgba(67,88,242,1);
+}
+#Assigned_By {
+  opacity: 0.5;
+  left: 40px;
+  top: 396px;
+  position: absolute;
+  overflow: visible;
+  width: 79px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  color: rgba(4,9,34,1);
+}
+#Assigned_Byname {
+  left: 164px;
+  top: 396px;
+  position: absolute;
+  overflow: visible;
+  width: 52px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  color: rgba(67,88,242,1);
+}
+#Due {
+  opacity: 0.5;
+  left: 40px;
+  top: 432px;
+  position: absolute;
+  overflow: visible;
+  width: 29px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  color: rgba(4,9,34,1);
+}
+#ID400_Hrs {
+  left: 164px;
+  top: 432px;
+  position: absolute;
+  overflow: visible;
+  width: 51px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  color: rgba(4,9,34,1);
+}
+#Will_be_counted_once_task_begi {
+  opacity: 0.5;
+  left: 237px;
+  top: 432px;
+  position: absolute;
+  overflow: visible;
+  width: 214px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  color: rgba(4,9,34,1);
+}
+#Task_Duration {
+  opacity: 0.5;
+  left: 40px;
+  top: 468px;
+  position: absolute;
+  overflow: visible;
+  width: 88px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  color: rgba(4,9,34,1);
+}
+#ID400_Hrs_ip {
+  left: 164px;
+  top: 468px;
+  position: absolute;
+  overflow: visible;
+  width: 51px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  color: rgba(4,9,34,1);
+}
+#Revise_duration {
+  left: 240px;
+  top: 468px;
+  position: absolute;
+  overflow: visible;
+  width: 102px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  color: rgba(67,88,242,1);
+}
+#Component_1341__1 {
+  position: absolute;
+  width: 795px;
+  height: 126px;
+  left: 20px;
+  top: 530px;
+  overflow: visible;
+}
+
+/*########################################*/
+#Rectangle_3415 {
+  fill: rgba(248,251,255,1);
+  stroke: rgba(234,237,241,1);
+  stroke-width: 1.5px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-dasharray: 5;
+  stroke-dashoffset: 0;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_3415 {
+  position: absolute;
+  overflow: visible;
+  width: 795px;
+  height: 126px;
+  left: 60px;
+  top: 0px;
+}
+#Add_your_comments_tag_users {
+  opacity: 0.5;
+  left: 75px;
+  top: 17px;
+  position: absolute;
+  overflow: visible;
+  width: 213px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  color: rgba(4,9,34,1);
+}
+#attach_file-24px {
+  opacity: 0.5;
+  position: absolute;
+  width: 22.143px;
+  height: 19.242px;
+  left: 745px;
+  top: 12.795px;
+  overflow: visible;
+}
+#Path_17511 {
+  fill: transparent;
+}
+.Path_17511 {
+  overflow: visible;
+  position: absolute;
+  width: 22.144px;
+  height: 19.241px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#Path_17512 {
+  fill: rgba(4,9,34,1);
+}
+.Path_17512 {
+  overflow: visible;
+  position: absolute;
+  width: 10.149px;
+  height: 17.639px;
+  left: 6.458px;
+  top: 0.802px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#add_photo_alternate-24px_1 {
+  opacity: 0.5;
+  position: absolute;
+  width: 22.143px;
+  height: 19.242px;
+  left: 780px;
+  top: 12.795px;
+  overflow: visible;
+}
+#Path_17517 {
+  fill: transparent;
+}
+.Path_17517 {
+  overflow: visible;
+  position: absolute;
+  width: 22.144px;
+  height: 19.241px;
+  left: -0.001px;
+  top: 0px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#Path_17518 {
+  fill: rgba(0,0,0,1);
+}
+.Path_17518 {
+  overflow: visible;
+  position: absolute;
+  width: 19.375px;
+  height: 16.837px;
+  left: 1.845px;
+  top: 0.802px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#create_new_folder-24px {
+  opacity: 0.5;
+  position: absolute;
+  width: 19.243px;
+  height: 19.242px;
+  left: 820px;
+  top: 12.795px;
+  overflow: visible;
+}
+#Path_17519 {
+  fill: transparent;
+}
+.Path_17519 {
+  overflow: visible;
+  position: absolute;
+  width: 19.242px;
+  height: 19.242px;
+  left: -0.001px;
+  top: 0px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#Path_17520 {
+  fill: rgba(0,0,0,1);
+}
+.Path_17520 {
+  overflow: visible;
+  position: absolute;
+  width: 16.035px;
+  height: 12.828px;
+  left: 1.603px;
+  top: 3.207px;
+  transform: matrix(1,0,0,1,0,0);
+}
+#Component_1343__1 {
+  position: absolute;
+  width: 108px;
+  height: 18px;
+  left: 75px;
+  top: 94px;
+  overflow: visible;
+}
+#Component_1342__1 {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Rectangle_3436 {
+  fill: transparent;
+  stroke: rgba(67,88,242,1);
+  stroke-width: 1.5px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_3436 {
+  position: absolute;
+  overflow: visible;
+  width: 18px;
+  height: 18px;
+  left: 0px;
+  top: 0px;
+}
+#Completed {
+  opacity: 0.5;
+  left: 25px;
+  top: -2px;
+  position: absolute;
+  overflow: visible;
+  width: 69px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  color: rgba(4,9,34,1);
+}
+#Component_1343__2 {
+  position: absolute;
+  width: 113px;
+  height: 18px;
+  left: 203px;
+  top: 94px;
+  overflow: visible;
+}
+#Component_1342__1_jf {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Rectangle_3436_jg {
+  fill: transparent;
+  stroke: rgba(67,88,242,1);
+  stroke-width: 1.5px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_3436_jg {
+  position: absolute;
+  overflow: visible;
+  width: 18px;
+  height: 18px;
+  left: 0px;
+  top: 0px;
+}
+#Pending_RFI {
+  opacity: 0.5;
+  left: 25px;
+  top: -2px;
+  position: absolute;
+  overflow: visible;
+  width: 74px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Spartan;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  color: rgba(4,9,34,1);
+}
+                
