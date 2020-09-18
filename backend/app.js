@@ -21,7 +21,7 @@ const app = express()
 
 // db
 mongoose
-    .connect(process.env.DATABASE, {
+    .connect('mongodb://localhost/employeeTaskApp', {
         useNewUrlParser: true,
         useCreateIndex: true,
         useUnifiedTopology: true 
