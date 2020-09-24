@@ -9,12 +9,10 @@ const cors = require('cors')
 
 require('dotenv').config()
 // import routes
-const userRoutes = require('./routes/user')
 const companyRoutes = require("./routes/company")
 const customerRoutes = require("./routes/customer")
 const resourceRoutes = require("./routes/resource")
 const customerResourceRoutes = require("./routes/customerResource")
-const taskRoutes = require("./routes/task")
 
 // app
 const app = express()
@@ -38,12 +36,10 @@ app.use(cookieParser());
 app.use(cors());
 
 // routes middleware
-app.use('/', userRoutes)
 app.use('/', companyRoutes)
 app.use('/', customerRoutes)
 app.use('/', resourceRoutes)
 app.use('/', customerResourceRoutes)
-app.use('/', taskRoutes)
 
 
 

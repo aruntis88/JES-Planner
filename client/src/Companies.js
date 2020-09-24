@@ -12,8 +12,8 @@ const Companies = () => {
 
 	const loadCompanies = () => {
 		getCompanies().then(data => {
-			if (data.error) {
-	            setError(data.error);
+			if (!data) {
+	            alert("Connection error/ No Data");
 	        } else {
 	            setCompany(data);
 	        }

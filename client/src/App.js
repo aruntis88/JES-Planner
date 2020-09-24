@@ -10,7 +10,6 @@ import ViewCompany from './ViewCompany'
 import Customers from './Customers'
 import AddCustomer from './AddCustomer'
 import ViewCustomer from './ViewCustomer'
-import Tasks from './Tasks'
 
 
 
@@ -26,7 +25,6 @@ function App() {
           <Route exact path="/customers" component={Customers} />
           <Route exact path="/create-customer" component={AddCustomer} />
           <Route exact path="/customer/:customerId" component={ViewCustomer} />
-          <Route exact path="/tasks" component={Tasks} />
         </Switch>
       </Router>
       
